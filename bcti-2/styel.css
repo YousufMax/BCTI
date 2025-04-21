@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.yousuf{
+    margin-left: 70px;
+}
+.yousuf2{
+    margin-left: 90px;
+}
+.yousuf3{
+    margin-right: 10px;
+}
+.log0_1{
+    margin-right: 400px;
+}
+
+.font_2{
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+body{
+ 
+
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
